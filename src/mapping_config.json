@@ -1,0 +1,11 @@
+{
+    "asset_id": "资产编号",
+    "asset_name": "资产名称",
+    "purchase_date": "购入日期",
+    "original_cost": "资产原值",
+    "residual_rate": "净残值率(%)",
+    "accumulated_dep": "累计折旧",
+    "monthly_dep": "月折旧额",
+    "useful_life": "年 限",
+    "annual_dep": "本年折旧金额"
+}
