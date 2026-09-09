@@ -1,0 +1,117 @@
+# 工具下载配置（由上传脚本自动生成，请勿手动修改）
+download_type = "release"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/text_demo_chinese_full.zip"
+program_download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/text_demo_chinese_src.zip"
+
+[[files]]
+name = "README.md"
+path = "README.md"
+asset_name = "README.md"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/README.md"
+size = 116
+
+[[files]]
+name = "checker.py"
+path = "src/checker.py"
+asset_name = "checker.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/checker.py"
+size = 2127
+
+[[files]]
+name = "report.py"
+path = "src/report.py"
+asset_name = "report.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/report.py"
+size = 2956
+
+[[files]]
+name = "analyzer.py"
+path = "src/analyzer.py"
+asset_name = "analyzer.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/analyzer.py"
+size = 5381
+
+[[files]]
+name = "config.py"
+path = "src/config.py"
+asset_name = "config.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/config.py"
+size = 156
+
+[[files]]
+name = "field_matcher.py"
+path = "src/field_matcher.py"
+asset_name = "field_matcher.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/field_matcher.py"
+size = 4297
+
+[[files]]
+name = "mapping_config.json"
+path = "src/mapping_config.json"
+asset_name = "mapping_config.json"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/mapping_config.json"
+size = 336
+
+[[files]]
+name = "main.py"
+path = "src/main.py"
+asset_name = "main.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/main.py"
+size = 2807
+
+[[files]]
+name = "export_template.py"
+path = "src/export_template.py"
+asset_name = "export_template.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/export_template.py"
+size = 27174
+
+[[files]]
+name = "scheme_manager.py"
+path = "src/scheme_manager.py"
+asset_name = "scheme_manager.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/scheme_manager.py"
+size = 27837
+
+[[files]]
+name = "gui.py"
+path = "src/gui.py"
+asset_name = "gui.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/gui.py"
+size = 43828
+
+[[files]]
+name = "calculator.py"
+path = "src/calculator.py"
+asset_name = "calculator.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/calculator.py"
+size = 8479
+
+[[files]]
+name = "data_loader.py"
+path = "src/data_loader.py"
+asset_name = "data_loader.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/data_loader.py"
+size = 3605
+
+[[files]]
+name = "asset_classifier.py"
+path = "src/asset_classifier.py"
+asset_name = "asset_classifier.py"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/asset_classifier.py"
+size = 39175
+
+[[files]]
+name = "current_scheme"
+path = "src/schemes/current_scheme"
+asset_name = "current_scheme"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/current_scheme"
+size = 38
+
+[[files]]
+name = "新方案_20260807_111640.json"
+path = "src/schemes/新方案_20260807_111640.json"
+asset_name = "20260807_111640.json"
+download_url = "https://github.com/TAXLY-WorkTools/text_demo_chinese/releases/download/v1.0.0/20260807_111640.json"
+size = 1404
+
