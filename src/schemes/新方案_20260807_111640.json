@@ -1,0 +1,45 @@
+{
+    "scheme_name": "新方案_20260807_111640",
+    "scheme_description": "默认1",
+    "version": "1.0",
+    "created_date": "2026-08-07 11:16:40",
+    "modified_date": "2026-08-07 16:26:27",
+    "global_params": {
+        "audit_base_date": "2025-12-31",
+        "depreciation_method": "average",
+        "new_asset_rule": "by_asset_type",
+        "currency_precision": 2,
+        "materiality_threshold": 500,
+        "residual_rate_min": 0.0,
+        "residual_rate_max": 5.0
+    },
+    "scenes": {
+        "scene1": {
+            "enabled": true,
+            "name": "程序1: 折旧测算差异",
+            "params": {}
+        },
+        "scene3": {
+            "enabled": true,
+            "name": "程序2: 已提足检查（未提满补提）",
+            "params": {}
+        },
+        "scene4": {
+            "enabled": true,
+            "name": "程序3: 异常分析（差异原因诊断）",
+            "params": {}
+        },
+        "scene8": {
+            "enabled": false,
+            "name": "场景8: 抽凭清单（预留）",
+            "params": {
+                "sample_size": 20,
+                "risk_weight_net_value": 40,
+                "risk_weight_diff": 30,
+                "risk_weight_residual": 15,
+                "risk_weight_over_dep": 10,
+                "risk_weight_cutoff": 5
+            }
+        }
+    }
+}
